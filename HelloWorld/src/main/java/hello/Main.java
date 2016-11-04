@@ -8,6 +8,6 @@ public class Main {
 	}
 
 	public int doSomething(int a){
-		return a*2;
+		return a*3;
 	}
 }
